@@ -2,10 +2,12 @@
 # Created by `dart pub`
 .dart_tool/
 
+# OS File
+.DS_Store
+
 # IDE
 .vscode
 .idea
 
 # Dev Only
-
 .env
